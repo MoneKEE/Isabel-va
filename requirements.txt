@@ -1,0 +1,9 @@
+pyobjc-core
+pyobjc-framework-Speech
+speech
+sound
+dialogs
+linguistictagger
+sqlite3
+csv
+sys
